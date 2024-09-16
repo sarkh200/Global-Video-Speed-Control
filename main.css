@@ -9,3 +9,8 @@ body {
 #speedInput {
 	width: 50px;
 }
+
+h4 {
+	color: white;
+	display: inline;
+}
