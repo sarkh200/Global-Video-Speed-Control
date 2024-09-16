@@ -1,0 +1,16 @@
+body {
+	display: block;
+	width: 90%;
+	height: fit-content;
+	min-width: 250px;
+}
+
+#speedInputDiv{
+	width: fit-content;
+	display: flex;
+	justify-content: center;
+}
+
+#speedInputDiv>#speedInput{
+	flex-grow: 1;
+}
